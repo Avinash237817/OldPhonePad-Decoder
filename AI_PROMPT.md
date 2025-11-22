@@ -1,4 +1,4 @@
-AI PROMPT USED (Transparency Requirement)
+AI PROMPT USED (Transparency)
 
 Tool: ChatGPT (OpenAI model GPT-5.1)
 
@@ -18,3 +18,4 @@ AI assistance was used strictly to:
 - Improve readability
 - Suggest testing practices
 No problem-solving or logic derivation was done by AI.
+
